@@ -1,0 +1,45 @@
+    1  ls
+    2  ifconfig
+    3  sudo su
+    4  wsl
+    5  wsl --install
+    6  sudo apt install wsl
+    7  ls
+    8  sudo apt install gh
+    9  sudo apt update
+   10  sudo apt install gh
+   11  gh auth login
+   12  sudo apt install xdg-utils
+   13  google-chrome
+   14  ls
+   15  cd latihan-git/
+   16  git --versoin
+   17  git -versoin
+   18  sudo apt install gh
+   19  gh auth status github.com
+   20  code .
+   21  nano index.html
+   22  LS
+   23  ls
+   24  cd ..
+   25  mkdir git-latihan
+   26  ls
+   27  cd git-latihan/
+   28  code .
+   29  git init
+   30  gh auht login
+   31  ls
+   32  cd .
+   33  cd git-latihan
+   34  code .
+   35  git --version
+   36  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   37  nvm --v
+   38  nvm install v14.15.4
+   39  node -v
+   40  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   41  cd uas-komdat-24/
+   42  code .
+   43  npm install
+   44  npm run start
+   45  history > command-history.txt
